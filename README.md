@@ -1,3 +1,10 @@
+<h1 align="center">
+  Hi 👋, I'm Karthik
+</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;AI+Developer;Python+Developer;Future+Software+Engineer;Open+to+Opportunities&center=true&width=500&height=50">
+</p>
+
+
 Hi 👋, I'm Karthik 
 
 🚀 Aspiring Machine Learning Engineer 
