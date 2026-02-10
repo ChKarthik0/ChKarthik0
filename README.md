@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi 👋, I'm Vijay
 
-<!--
-**ChKarthik0/ChKarthik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Machine Learning Engineer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- 🎓 B.Tech Student passionate about technology
+- 🤖 Interested in Machine Learning, AI, and Software Development
+- 🌱 Currently learning Machine Learning, Deep Learning, and Full Stack Development
+- 💡 Love building real-world projects to solve problems
+- 🎯 Goal: Become ML Engineer / Software Engineer
+
+
+🛠️ Tech Stack
+
+Programming Languages
+
+- Python
+- JavaScript
+
+Web Development
+
+- HTML
+- CSS
+--React.js
+- Flask
+
+Database
+
+- PostgreSQL
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+
+AI / ML
+
+- Machine Learning (Beginner)
+- AI Integration
+
+
+📌 Projects
+
+- 🤖 AI Expense Tracker – Financial management system with AI integration
+- 🌐 Portfolio Website
+- 📊 Machine Learning Projects (Coming soon)
+- 
+
+📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/cheeli-karthik-9326402a8
+- Email: cheelikarthik0@gmail.com
+
+
+⭐ From Vijay | Future ML Engineer
