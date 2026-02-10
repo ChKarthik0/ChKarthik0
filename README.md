@@ -56,7 +56,7 @@ AI / ML
 
 📈 GitHub Stats
 
-"Vijay's GitHub stats" (https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight)
+"My GitHub stats" (https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -70,4 +70,4 @@ AI / ML
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight)
 
-⭐ From Vijay | Future ML Engineer
+⭐ From Karthik | Future ML Engineer
