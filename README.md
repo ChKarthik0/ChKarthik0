@@ -1,4 +1,4 @@
-Hi 👋, I'm Vijay
+Hi 👋, I'm Karthik 
 
 🚀 Aspiring Machine Learning Engineer 
 
