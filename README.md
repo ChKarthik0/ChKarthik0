@@ -54,5 +54,20 @@ AI / ML
 - LinkedIn: https://www.linkedin.com/in/cheeli-karthik-9326402a8
 - Email: cheelikarthik0@gmail.com
 
+📈 GitHub Stats
+
+"Vijay's GitHub stats" (https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight)
+
+---
+
+🔥 GitHub Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com/?user=ChKarthik0&theme=tokyonight)
+
+---
+
+💻 Most Used Languages
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight)
 
 ⭐ From Vijay | Future ML Engineer
