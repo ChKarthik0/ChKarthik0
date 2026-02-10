@@ -81,3 +81,7 @@ AI / ML
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight)
 
 ⭐ From Karthik | Future ML Engineer
+
+🐍 Contribution Snake
+
+"Snake animation" (https://github.com/ChKarthik0/ChKarthik0/blob/output/github-contribution-grid-snake.svg)
