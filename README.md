@@ -33,7 +33,7 @@ Web Development
 
 - HTML
 - CSS
---React.js
+- React.js
 - Flask
 
 Database
