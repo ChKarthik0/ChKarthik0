@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  🚀 Karthik 
+  🚀 Cheeli Karthik 
 </h1>
 
 <p align="center">
@@ -72,7 +72,7 @@ Machine Learning NLP system
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
 </p>
 
@@ -84,9 +84,9 @@ Machine Learning NLP system
 
 ## 🌍 Let's Connect
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: Add your LinkedIn  
-🌐 Portfolio: Add your website  
+📧 Email: cheelikarthik0@gmail.com
+💼 LinkedIn: - https://www.linkedin.com/in/cheeli-karthik-9326402a8
+🌐 Portfolio: https://chkarthik0.github.io/New-Portfolio/
 
 ---
 
