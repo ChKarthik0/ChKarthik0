@@ -85,7 +85,9 @@ Machine Learning NLP system
 ## 🌍 Let's Connect
 
 📧 Email: cheelikarthik0@gmail.com
+
 💼 LinkedIn: - https://www.linkedin.com/in/cheeli-karthik-9326402a8
+
 🌐 Portfolio: https://chkarthik0.github.io/New-Portfolio/
 
 ---
