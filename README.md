@@ -10,11 +10,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%20Engineer%20Portfolio&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
----
 
 ## 🧠 About Me
 
-```python
+python
 class AIEngineer:
     def __init__(self):
         self.name = "Cheeli Karthik"
@@ -28,7 +27,6 @@ class AIEngineer:
 
 me = AIEngineer()
 me.say_hi()
-```
 
 💡 **AI-focused Developer** building real-world intelligent systems  
 ⚡ **Strong in Flask backend architecture** & AI integration  
@@ -36,7 +34,7 @@ me.say_hi()
 🔍 **Currently advancing into** AI Agents & system-level AI design  
 🎯 **Goal:** Build scalable AI products, not just API wrappers
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -61,7 +59,7 @@ me.say_hi()
 - ✅ Live sentiment classification API
 - ✅ Scalable microservice architecture
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -91,7 +89,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+
 
 ## 📈 GitHub Analytics
 
@@ -104,7 +102,7 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com/?user=ChKarthik0&theme=tokyonight&hide_border=true&background=0d1117" width="80%"/>
 </div>
 
----
+
 
 ## 🏆 Achievements & Contributions
 
@@ -114,7 +112,7 @@ me.say_hi()
 - 💬 **Ask me about:** Flask backend, LLM integration, ML deployment
 - 📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+
 
 ## 📊 Weekly Development Breakdown
 
@@ -128,7 +126,6 @@ Other      30 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
 
 ## 🐍 My Contributions
 
@@ -136,7 +133,7 @@ Other      30 mins         ▒░░░░░░░░░░░░░░░░�
   <img src="https://github.com/ChKarthik0/ChKarthik0/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChKarthik0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
