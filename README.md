@@ -1,9 +1,9 @@
 <h1 align="center"> 
-  👨‍💻 Cheeli Karthik
+  🚀 Cheeli Karthik 
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Application+Developer;Full+Stack+AI+Builder;Flask+Backend+Specialist;Building+Production-Ready+AI+Systems&center=true&width=650&height=50&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Application+Developer;Flask+Backend+Specialist;Full+Stack+AI+Builder;Building+Production-Ready+AI+Systems&center=true&width=650&height=50&color=00F7FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -14,17 +14,85 @@
 
 ## 🧠 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Cheeli Karthik"
-        self.role = "AI Engineer & Full Stack Developer"
-        self.language_spoken = ["Telugu", "English"]
-        self.current_focus = "Building production-ready AI systems"
-        self.interests = ["LLM Applications", "AI Agents", "NLP", "Backend Architecture"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+💡 AI-focused Developer building real-world intelligent systems  
+⚡ Strong in Flask backend architecture & AI integration  
+📊 Experience in ML models, NLP systems & LLM-powered apps  
+🔍 Currently advancing into AI Agents & system-level AI design  
 
-me = AIEngineer()
-me.say_hi()
+🎯 Goal: Build scalable AI products, not just API wrappers.
+
+---
+
+## 🚀 Highlight Projects
+
+### 🤖 KewGPT – AI Chatbot System
+Full-stack AI chatbot (React + Flask)  
+✔ Context-aware response system  
+✔ Modular backend architecture  
+✔ Real-time inference pipeline  
+
+---
+
+### 💰 AI Expense Tracker
+AI-powered financial management application  
+✔ PostgreSQL integration  
+✔ AI-generated financial insights  
+✔ Authentication & dashboard system  
+
+---
+
+### 📊 Real-Time Sentiment Analysis
+Machine Learning NLP system  
+✔ Text preprocessing pipeline  
+✔ Model training & evaluation  
+✔ Live sentiment classification  
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+`Python` `JavaScript` `SQL`
+
+### 🌐 Backend & Frontend
+`Flask` `React` `HTML` `CSS`
+
+### 🤖 AI / ML
+`Scikit-learn` `ResNet (CNN)` `XGBoost` `Random Forest`  
+`LLM Integration` `NLP Systems`
+
+### 🗄 Database
+`PostgreSQL`
+
+### 🧰 Tools
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChKarthik0&theme=tokyonight&hide_border=true&background=0d1117">
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+📧 Email: cheelikarthik0@gmail.com
+
+💼 LinkedIn: - https://www.linkedin.com/in/cheeli-karthik-9326402a8
+
+🌐 Portfolio: https://chkarthik0.github.io/New-Portfolio/
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
