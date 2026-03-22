@@ -44,7 +44,7 @@ Full-stack intelligent chatbot
 ✔ Memory + LLM integration  
 ✔ Real-time response system  
 
-🔗 https://github.com/ChKarthik0/AI-Chatbot  
+🔗 https://github.com/ChKarthik0/KewGPT-Ai-Coversational-System
 
 ---
 
@@ -54,6 +54,8 @@ Smart financial tracking system
 ✔ PostgreSQL database  
 ✔ AI-generated insights  
 ✔ Authentication + dashboard  
+
+🔗 https://github.com/ChKarthik0/ExpenseTracker
 
 ---
 
