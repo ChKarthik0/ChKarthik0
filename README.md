@@ -1,98 +1,78 @@
-<h1 align="center"> 
-  🚀 Cheeli Karthik 
-</h1>
+# 👋 Hi, I'm Karthik
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Application+Developer;Flask+Backend+Specialist;Full+Stack+AI+Builder;Building+Production-Ready+AI+Systems&center=true&width=650&height=50&color=00F7FF&vCenter=true&size=22">
-</p>
+### 🚀 AI Developer | Full Stack Engineer | Automation Builder
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%20Engineer%20Portfolio&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Automation+Enthusiast;Building+FlowForge+🔥" />
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
-💡 AI-focused Developer building real-world intelligent systems  
-⚡ Strong in Flask backend architecture & AI integration  
-📊 Experience in ML models, NLP systems & LLM-powered apps  
-🔍 Currently advancing into AI Agents & system-level AI design  
-
-🎯 Goal: Build scalable AI products, not just API wrappers.
+* 🔭 Working on **FlowForge (AI Automation Platform)**
+* 🤖 Passionate about **AI Agents & LLM Systems**
+* 💡 Love building **real-world impactful projects**
+* 🎯 Goal: Become **Top AI Engineer**
 
 ---
 
-## 🚀 Highlight Projects
+## 🛠️ Tech Stack
 
-### 🤖 KewGPT – AI Chatbot System
-Full-stack AI chatbot (React + Flask)  
-✔ Context-aware response system  
-✔ Modular backend architecture  
-✔ Real-time inference pipeline  
+### 💻 Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 
-### 💰 AI Expense Tracker
-AI-powered financial management application  
-✔ PostgreSQL integration  
-✔ AI-generated financial insights  
-✔ Authentication & dashboard system  
+### ⚙️ Frameworks
 
----
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
-### 📊 Real-Time Sentiment Analysis
-Machine Learning NLP system  
-✔ Text preprocessing pipeline  
-✔ Model training & evaluation  
-✔ Live sentiment classification  
+### 🧠 AI Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### 👨‍💻 Languages
-`Python` `JavaScript` `SQL`
+### 🔥 FlowForge
 
-### 🌐 Backend & Frontend
-`Flask` `React` `HTML` `CSS`
+> AI-powered workflow automation platform
+> 🔗 https://github.com/ChKarthik0/Flowforge
 
-### 🤖 AI / ML
-`Scikit-learn` `ResNet (CNN)` `XGBoost` `Random Forest`  
-`LLM Integration` `NLP Systems`
+### 🤖 AI Chatbot
 
-### 🗄 Database
-`PostgreSQL`
-
-### 🧰 Tools
-`Git` `GitHub` `VS Code`
+> Full-stack chatbot with LLM integration
+> 🔗 https://github.com/ChKarthik0/AI-Chatbot
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
-</p>
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChKarthik0\&show_icons=true\&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChKarthik0&theme=tokyonight&hide_border=true&background=0d1117">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌍 Let's Connect
+## 🔥 Streak Stats
 
-📧 Email: cheelikarthik0@gmail.com
-
-💼 LinkedIn: - https://www.linkedin.com/in/cheeli-karthik-9326402a8
-
-🌐 Portfolio: https://chkarthik0.github.io/New-Portfolio/
+![GitHub Streak](https://streak-stats.demolab.com?user=ChKarthik0\&theme=tokyonight)
 
 ---
 
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=firefox)](#)
+
+---
+
+## ✨ Fun Touch
+
+![Snake animation](https://github.com/ChKarthik0/ChKarthik0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ From Karthik | Building the Future with AI
