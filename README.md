@@ -1,78 +1,138 @@
-# 👋 Hi, I'm Karthik
+<h1 align="center">
+  🚀 Cheeli Karthik
+</h1>
 
-### 🚀 AI Developer | Full Stack Engineer | Automation Builder
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;LLM+Application+Developer;Agentic+AI+Builder;Flask+Backend+Specialist;Building+Production-Ready+AI+Systems&center=true&width=700&height=50&color=00F7FF&vCenter=true&size=22">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Automation+Enthusiast;Building+FlowForge+🔥" />
-
----
-
-## 🌟 About Me
-
-* 🔭 Working on **FlowForge (AI Automation Platform)**
-* 🤖 Passionate about **AI Agents & LLM Systems**
-* 💡 Love building **real-world impactful projects**
-* 🎯 Goal: Become **Top AI Engineer**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20Engineer%20%7C%20FlowForge%20Builder&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Languages
+💡 AI Engineer focused on **building real-world intelligent systems**  
+⚡ Strong in **Flask backend architecture & LLM integration**  
+🤖 Developing **AI Agents, Automation Systems & Workflow Engines**  
+📊 Experience in **ML, NLP & scalable AI pipelines**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-
-### ⚙️ Frameworks
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-
-### 🧠 AI Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+🎯 **Mission:** Build production-level AI systems — not just demos.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 FlowForge
+### 🔥 FlowForge (Flagship Project)
+AI-powered workflow automation platform  
 
-> AI-powered workflow automation platform
-> 🔗 https://github.com/ChKarthik0/Flowforge
+✔ AI Agents for task execution  
+✔ Workflow builder + scheduling system  
+✔ Integrations (Gmail, APIs, etc.)  
+✔ Scalable backend architecture  
 
-### 🤖 AI Chatbot
-
-> Full-stack chatbot with LLM integration
-> 🔗 https://github.com/ChKarthik0/AI-Chatbot
-
----
-
-## 📊 GitHub Stats
-
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChKarthik0\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0\&layout=compact\&theme=tokyonight)
+🔗 https://github.com/ChKarthik0/Flowforge  
 
 ---
 
-## 🔥 Streak Stats
+### 🤖 AI Chatbot System
+Full-stack intelligent chatbot  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ChKarthik0\&theme=tokyonight)
+✔ Context-aware conversations  
+✔ Memory + LLM integration  
+✔ Real-time response system  
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=firefox)](#)
+🔗 https://github.com/ChKarthik0/AI-Chatbot  
 
 ---
 
-## ✨ Fun Touch
+### 💰 AI Expense Tracker
+Smart financial tracking system  
 
-![Snake animation](https://github.com/ChKarthik0/ChKarthik0/blob/output/github-contribution-grid-snake.svg)
+✔ PostgreSQL database  
+✔ AI-generated insights  
+✔ Authentication + dashboard  
 
 ---
 
-⭐️ From Karthik | Building the Future with AI
+### 📊 Real-Time Sentiment Analysis
+Machine Learning NLP system  
+
+✔ Text preprocessing pipeline  
+✔ Model training & evaluation  
+✔ Live sentiment classification  
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
+
+### 🌐 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,react,html,css" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+`Scikit-learn` `XGBoost` `Random Forest` `LLMs` `NLP`
+
+### 🗄 Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChKarthik0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChKarthik0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChKarthik0&theme=tokyonight&hide_border=true&background=0d1117">
+</p>
+
+---
+
+## 🧩 What I’m Building Now
+
+🚀 FlowForge → AI Automation Platform  
+🤖 AI Agents → Multi-agent workflows  
+🧠 LLM Systems → Scalable AI pipelines  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:cheelikarthik0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cheeli-karthik-9326402a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://chkarthik0.github.io/New-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 “Building AI systems that actually solve real problems.”
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
