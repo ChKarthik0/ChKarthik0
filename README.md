@@ -44,7 +44,7 @@ Full-stack intelligent chatbot
 ✔ Memory + LLM integration  
 ✔ Real-time response system  
 
-🔗 https://github.com/ChKarthik0/KewGPT-Ai-Coversational-System
+🔗 https://github.com/ChKarthik0/Nova-Ai-Coversational-System
 
 ---
 
